@@ -1,2 +1,2 @@
 # assignment_1
-	https://github.com/aquib-javed7/youtubedata_harvesting_and_warehousing
+https://docs.google.com/document/d/1WrMDf4KnzprK37EJLr3QW0wRUB3few-1Yujv6wnYhZw/edit?usp=sharing 
